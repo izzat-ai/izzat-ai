@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Izzatullo Jakbarov! 👋
 
-<!--
-**izzat-ai/izzat-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Data Scientist & AI Enthusiast** from Uzbekistan, eager to explore and contribute to the world of **Machine Learning, Deep Learning, and Computer Vision**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🏆 Strong knowledge of **Python, NumPy, Pandas, Matplotlib, Seaborn, Sklearn, Machine Learning, and Deep Learning**
+- 🤖 Interested in **Computer Vision, NLP, and AI-powered solutions**
+- 💡 Exploring real-world applications of **AI & ML**
+- 🌎 Open to collaborations on **AI/ML projects**
+
+---
+
+## 🔧 Tech Stack & Tools
+- **Programming:** C, Python, SQL
+- **Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Subplot, Lux
+- **Deep Learning:** TensorFlow, PyTorch, Fastai
+- **Database:** SQLite
+- **Version Control:** Git, GitHub
+
+---
+
+## 📌 Featured Projects
+🚧 *Coming soon...* 🚧
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: *[izzatjakbarov7@gmail.com]*
+
+Let's connect and build amazing things together! 🚀
